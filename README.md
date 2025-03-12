@@ -53,10 +53,10 @@ Every module pushed me further, reinforcing concepts and making me **write clean
 
 ```sh
 # Clone the repository
-git clone https://github.com/ManasDev/flutter-expense-tracker.git
+git clone https://github.com/codewmanas/Coursera-IBM-Flutter.git
 
 # Navigate to project folder
-cd flutter-expense-tracker
+cd coursera-ibm-flutter
 
 # Install dependencies
 flutter pub get
